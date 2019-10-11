@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- <?xml-stylesheet type='text/css' href='a.css' ?> -->
+<users>
+    <user>
+        <name>张三</name>
+        <age>23</age>
+        <gender>男</gender>
+        <code>
+            <![CDATA[
+                if(a>b){
+                    return a
+                }
+            ]]>
+        </code>
+    </user>
+</users>
